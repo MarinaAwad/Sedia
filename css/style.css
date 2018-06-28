@@ -1,0 +1,305 @@
+﻿body
+{
+	background-color:#f4f7f9;
+}
+
+/* start header */
+.navbar-nav  a 
+	{
+		color : white;
+	}
+
+.container-fluid
+	{
+		background-color:rgba(105,105,105,0.3);
+		padding: 0% 7%;
+	}
+
+
+.small-hr
+	{
+		display:inline-block;
+		width:3%;
+		border: none;
+		height: 1px;
+		background-color:#10d993;
+	}
+
+
+.carousel-caption
+	{
+		font-size:40px;
+	}
+
+#top-animation
+	{
+		display:inline-block;
+		
+	}
+
+	
+#left-animation
+	{
+		display:inline-block;
+	}
+	
+#right-animation
+	{
+		display:inline-block;
+		
+	}
+	
+.bold-span
+	{
+		font-weight:900;
+	}
+	
+.green-span
+	{
+		color:#10d993;
+	}
+
+.slider-media ,a
+	{
+		color:gray;
+		cursor:pointer;
+	}
+
+.slider-media:hover
+	{
+		color:white;
+		text-decoration:none;
+	}
+
+
+
+
+/* end header */
+
+/* start main */
+/* start our services */
+	
+.section-title
+	{
+		color:#8b0110;
+		font-weight:bold;
+		padding-top:3%;
+	}
+
+.line
+	{
+		width:30%;
+		border: none;
+		height: 1px;
+		background-color: #cecece; /* Modern Browsers */
+	}
+
+.color-padding
+	{
+		color:#062033;
+		font-size:25px;
+		padding:10% 5%;
+		background-color:#f4f7f9;
+	}
+	
+.home-icon
+	{
+		width:20%;
+		height:20%
+	}
+	
+.inline-paragraph
+	{
+		display:inline-block;
+	}
+	
+	/* end our servis */
+	
+	/* start gallary */
+#gallery
+	{
+		padding:25% 0% 0% 0%;
+		background-color:white;
+	}
+	
+.container  img
+{
+	margin-top:4%;
+}
+	
+.gallery-paragraph
+	{
+		font-size:20px;
+		color:#5b646e;
+		padding:2% 5%;
+	}
+
+.gallery-button
+	{
+		font-weight:bold;
+		font-size:20px;
+		border:none;
+		background-color:white;
+		padding:0.5% 1%;
+	}
+	
+.gallery-button:hover
+	{
+		background-color:#8b0110;
+		color:white;
+		border-radius:7px;
+	}
+	
+.gallery-button:focus
+	{
+		background-color:#8b0110;
+		color:white;
+		border-radius:7px;
+		border:none;
+	}
+	/* end gallary */
+	
+	/*start about us*/
+#aboutus
+	{
+		background-color:white;
+		margin-top:-1.5%;
+		
+	}
+	
+.about-count
+	{
+		background-image:url("../image/city.jpg");
+		background-attachment:fixed;
+		height:400px;
+	}
+	
+.blue-background
+	{
+		/* background-color:rgba(0,0,0,0.5); */
+		color:white;
+	}
+	
+.white-aboutus
+	{
+		
+		color:white;
+	}
+
+#aboutus
+	{
+		font-size:19px;
+		color:white;
+	}
+	
+#target-no1 
+	{
+		font-weight:bold;
+		font-size:30px;
+		color:white;
+	}
+	
+#target-no2
+	{
+		font-weight:bold;
+		font-size:30px;
+		color:white;
+	}
+
+#target-no3
+	{
+		font-weight:bold;
+		font-size:30px;
+		color:white;
+	}
+#target-no4
+	{
+		font-weight:bold;
+		font-size:30px;
+		color:white;
+	}
+	/*end about us*/
+	
+	/* start contact* */
+#contactus 
+	{
+		
+		background-color:white;
+	}
+	
+.contact-divs
+	{
+		padding:3% 5%;
+		background-color:white;
+		height:300px;
+	}
+	
+#p2
+	{
+		font-size:20px;
+	}
+	
+	
+.small-input
+	{
+		width:48%;
+		display:inline-block;
+		border:0px;
+		border-bottom:1px solid lightgray;
+		
+	}
+	
+.input-message-box
+	{
+		width:97%;
+		border:0px;
+		border-bottom:1px solid lightgray;
+		
+	}
+	
+.message-button
+	{
+		border:none;
+		background-color:white;
+	}
+	/* end  contact us */
+	
+	
+	/* start footer */
+.footer div
+	{
+		color:white;
+		background-color:#8b0110;
+	}	
+	
+.limit-height
+	{
+		height:220px;
+	}
+
+
+.footer-input
+	{
+		color:white;
+		background-color:#8b0110;
+	}
+
+.input-group
+{
+	width:180%;
+}
+.footer-btn-icon
+	{
+		color:white;
+	}
+	/* end footer */
+	
+#scrol
+	{
+		position:fixed;
+		right:20px;
+		bottom:20px;
+		color:#8b0110;
+		display:none;
+		cursor:pointer;
+	}
