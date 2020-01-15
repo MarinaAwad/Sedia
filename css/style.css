@@ -30,6 +30,10 @@
 	{
 		font-size:40px;
 	}
+.carousel-caption a, a:hover
+	{
+		text-decoration:none;
+	}
 
 #top-animation
 	{
